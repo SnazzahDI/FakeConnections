@@ -1,0 +1,9 @@
+{
+  "name": "FakeConnections",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Snazzah",
+  "description": "Create a fake connection on your profile.",
+  "css": ["fc.css"],
+  "license": "MIT"
+}
