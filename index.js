@@ -19,7 +19,7 @@ module.exports = class FakeConnections extends Plugin {
   }
 
   get color() {
-    return 0x7A78BD;
+    return '7A78BD';
   }
 
   check(){
