@@ -74,7 +74,7 @@ module.exports = class FakeConnections extends Plugin {
       cache: 'no-cache',
       headers: {
         'content-type': 'application/json',
-        'authorization': this.DI.client.token
+        'authorization': JSON.parse(this.DI.localStorage.token)
       },
       method: 'PUT',
       mode: 'cors'
