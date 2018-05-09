@@ -7,5 +7,12 @@
   "css": ["fc.css"],
   "peerDependencies": { "elements": "*" },
   "keywords": ["di-plugin"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnazzahDI/FakeConnections.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SnazzahDI/FakeConnections/issues"
+  },
   "license": "MIT"
 }
