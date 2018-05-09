@@ -1,9 +1,11 @@
 {
-  "name": "FakeConnections",
+  "name": "fakeconnections",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Snazzah",
   "description": "Create a fake connection on your profile.",
   "css": ["fc.css"],
+  "peerDependencies": { "elements": "*" },
+  "keywords": ["di-plugin"],
   "license": "MIT"
 }
