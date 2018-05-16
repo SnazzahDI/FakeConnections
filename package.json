@@ -1,6 +1,6 @@
 {
   "name": "fakeconnections",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Snazzah",
   "description": "Create a fake connection on your profile.",
